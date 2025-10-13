@@ -4,13 +4,9 @@
 💬 Vous pouvez m’interroger sur PHP, Symfony, React ou TypeScript — mes terrains de jeu favoris.  
 ⚡ Fun fact : j’ai appris qu’un `rm -rf /` n’est drôle qu’une seule fois 😉  
 
----
-
 ## 🌐 Me retrouver :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hchautard)  
 📬 **Portfolio en cours de construction** – projets disponibles sur mon GitHub  
-
----
 
 # 💻 Stack technique
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
@@ -30,16 +26,10 @@
 
 > 💡 *Je travaille principalement avec Symfony et React, mais j’aime explorer de nouvelles technologies.*
 
----
-
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hchautard&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 # 🧩 Projets récents
 ### 🎨 [Portfolio pour une tatoueuse](https://lanomalie.com).
 > Site vitrine développé avec **React** et **Three.js**, permettant à une tatoueuse indépendante de présenter ses réalisations et d'avoir une page de contact.  
 > 💡 **Objectif :** combiner performance, esthétique et facilité d’utilisation pour un client artistique.  
-
----
