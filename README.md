@@ -1,5 +1,8 @@
-# 💫 A propos de moi:
-🔭 En ce moment je bosse sur l'intégration d'IA<br>🌱 J'apprends un peu de tout<br>💬 Ask me about PHP<br>⚡ Fun fact pour supprimer le langage FR sous linux : "sudo rm -rf /"
+# 💫 À propos de moi
+💻 Développeur fullstack passionné par la création de solutions web modernes et performantes.  
+🌱 J’aime apprendre en continu et explorer de nouvelles technologies front et back, haut et bas niveau.  
+💬 N’hésitez pas à échanger avec moi sur PHP, Symfony, React ou TypeScript.  
+⚡ Fun fact : j’ai appris qu’un `rm -rf /` n’est drôle qu’une seule fois 😉
 
 
 ## 🌐 Socials:
