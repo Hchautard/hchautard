@@ -53,7 +53,7 @@
 > 💡 *Je travaille principalement avec Symfony et React, mais j’aime explorer de nouvelles technologies.*
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hchautard&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=hchautard&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Projets récents
 ### [Portfolio pour une tatoueuse](https://lanomalie.com).
