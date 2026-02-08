@@ -1,11 +1,11 @@
 # À propos de moi
 - Développeur fullstack passionné par la création d’applications web modernes, performantes, durables et surtout, utiles.  
 - Curieux de nature, j’aime apprendre en continu et explorer aussi bien les technologies front que back, haut ou bas niveau.  
-- Fun fact : j’ai appris qu’un `rm -rf /` n’est drôle qu’une seule fois 😉  
+- Fun fact : j’ai appris qu’un `rm -rf /` n’est drôle qu’une seule fois
 
 ## Me retrouver :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hchautard)  
-**Portfolio en cours de construction** – projets disponibles sur mon GitHub  
+[![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://hchautard.fr)  
 
 # 💻 Stack technique
 ### Langages & Frameworks
