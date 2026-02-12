@@ -4,7 +4,7 @@
 - Fun fact : j’ai appris qu’un `rm -rf /` n’est drôle qu’une seule fois
 
 ## Me retrouver :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hchautard)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hchautard)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://hchautard.fr)  
 
 # 💻 Stack technique
@@ -34,6 +34,7 @@
 
 ### DevOps, Outils & Qualité
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![SonarQube](https://img.shields.io/badge/sonarqube-%2c6db7ed.svg?style=plastic&logo=sonarqube&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
@@ -53,7 +54,7 @@
 > 💡 *Je travaille principalement avec Symfony et React, mais j’aime explorer de nouvelles technologies.*
 
 # GitHub Stats
-![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=hchautard&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Mes superbes Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hchautard?cardType=github&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
 # Projets récents
 ### [Portfolio pour une tatoueuse](https://lanomalie.com).
